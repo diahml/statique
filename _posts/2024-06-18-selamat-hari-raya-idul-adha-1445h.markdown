@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Hari Raya Idul Adha "
-date:   2024-06-18 15:52 
+title:  "Selamat Hari Raya Idul Adha 1445H"
+date:   2024-06-18 15:55 
 categories: jekyll update
 ---
 <img src="/assets/images/sapi.jpeg" alt="sapi.jpeg" width="700" height="400">
 
-selamat hari raya idul adha 1445 H
+Selamat Hari Raya Idul Adha 1445H
 
