@@ -26,4 +26,4 @@ EXPOSE 8080
 ENV PORT 8080
 
 # Perintah untuk menjalankan Jekyll
-CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--port", "8080"]
+CMD ["jekyll", "serve", "--host", "0.0.0.0", "--port", "8080"]
