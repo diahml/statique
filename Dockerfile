@@ -1,17 +1,17 @@
 # Gunakan image dasar dari Ruby
-FROM ruby:2.7
+FROM ruby:3.2
 
 # Setel direktori kerja dalam container
 WORKDIR /usr/src/app
 
 # Salin file Gemfile dan Gemfile.lock ke direktori kerja
-COPY Gemfile Gemfile.lock ./
+COPY . .
 
 # Instal dependensi yang tercantum di Gemfile
 RUN bundle install
 
 # Salin semua file dari direktori lokal ke direktori kerja dalam container
-COPY . .
+# COPY . .
 
 # Buat volume untuk caching bundler dependencies
 VOLUME /usr/src/app/vendor/bundle
