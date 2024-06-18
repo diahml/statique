@@ -20,10 +20,10 @@ COPY . .
 RUN bundle install --verbose
 
 # Ekspose port yang akan digunakan oleh Jekyll
-EXPOSE 4000
+EXPOSE 8080
 
 # Setel variabel lingkungan untuk port
-ENV PORT 4000
+ENV PORT 8080
 
 # Perintah untuk menjalankan Jekyll
-CMD ["jekyll", "serve"]
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--port", "8080"]
