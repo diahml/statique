@@ -8,22 +8,22 @@ WORKDIR /usr/src/app
 COPY . .
 
 # Instal dependensi yang tercantum di Gemfile
-RUN bundle install
+# RUN bundle install
 
 # Buat volume untuk caching bundler dependencies
-VOLUME /usr/src/app/vendor/bundle
+# VOLUME /usr/src/app/vendor/bundle
 
 # Buat folder untuk output Jekyll
-RUN mkdir -p /usr/src/app/_site
+# RUN mkdir -p /usr/src/app/_site
 
 # Verbose Logging
 RUN bundle install --verbose
 
 # Ekspose port yang akan digunakan oleh Jekyll
-EXPOSE 8080
+EXPOSE 4000
 
 # Setel variabel lingkungan untuk port
-ENV PORT 8080
+ENV PORT 4000
 
 # Perintah untuk menjalankan Jekyll
-CMD ["jekyll", "serve", "--host", "0.0.0.0", "--port", "8080"]
+CMD ["jekyll", "serve"]
