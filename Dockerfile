@@ -19,6 +19,9 @@ VOLUME /usr/src/app/vendor/bundle
 # Buat folder untuk output Jekyll
 RUN mkdir -p /usr/src/app/_site
 
+# Verbose Logging
+RUN bundle install --verbose
+
 # Ekspose port yang akan digunakan oleh Jekyll
 EXPOSE 8080
 
