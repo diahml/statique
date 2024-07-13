@@ -51,3 +51,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# paginate: 7  # Jumlah post per halaman
+# paginate_path: "/page:num/"  # URL path untuk halaman pagination
+
