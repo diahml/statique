@@ -4,7 +4,7 @@ title:  "Jurusan Baru di Universitas Jenderal Soedirman"
 date:   2024-07-13 22:49 
 categories: "General"
 image: "/assets/images/patung_kuda.jpg"
-excerpt:"Universitas Jenderal Soedirman (Unsoed) membuka 9 Program Studi (Prodi) baru di tahun 2024 ini. Dengan dibukanya 9 Prodi Baru ini maka jumlah prodi baru di Unsoed menjadi 64 prodi untuk jenjang S1 dan D3. Adapun Prodi baru tersebut terdiri dari : S1 : 1. Prodi Proteksi Tanaman (Fakultas Pertanian) 2."
+excerpt: "Universitas Jenderal Soedirman (Unsoed) membuka 9 Program Studi (Prodi) baru di tahun 2024 ini. Dengan dibukanya 9 Prodi Baru ini maka jumlah prodi baru di Unsoed menjadi 64 prodi untuk jenjang S1 dan D3. Adapun Prodi baru tersebut terdiri dari : S1 : 1. Prodi Proteksi Tanaman (Fakultas Pertanian) 2."
 
 ---
 <img src="/assets/images/patung_kuda.jpg" alt="patung_kuda.jpg" width="700" height="400">
