@@ -34,12 +34,13 @@ layout: base
 
         {%- if post.image -%}
           <div class="post-image">
-            <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}">
+            <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" width="400" height="200">
           </div>
         {%- endif -%}
 
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
+          <a href="{{ post.url | relative_url }}" class="read-more">Read More</a>
         {%- endif -%}
       </li>
       {%- endfor -%}

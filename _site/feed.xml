@@ -1,67 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-07-13T22:20:30+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Statique-Blog</title><subtitle>Statique-Blog is a tool to make a static blog from an HTML form.</subtitle><entry><title type="html">Fakultas Teknik Membuka Prodi Baru</title><link href="http://localhost:4000/fakultas/teknik/2024/07/11/fakultas-teknik-membuka-prodi-baru.html" rel="alternate" type="text/html" title="Fakultas Teknik Membuka Prodi Baru" /><published>2024-07-11T20:33:00+07:00</published><updated>2024-07-11T20:33:00+07:00</updated><id>http://localhost:4000/fakultas/teknik/2024/07/11/fakultas-teknik-membuka-prodi-baru</id><content type="html" xml:base="http://localhost:4000/fakultas/teknik/2024/07/11/fakultas-teknik-membuka-prodi-baru.html"><![CDATA[<p><img src="/assets/images/unsoed.PNG" alt="unsoed.PNG" width="700" height="400" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-07-13T22:40:59+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Statique-Blog</title><subtitle>Statique-Blog is a tool to make a static blog from an HTML form.</subtitle><entry><title type="html">Sejarah Universitas Jenderal Soedirman</title><link href="http://localhost:4000/general/2024/07/13/sejarah-universitas-jenderal-soedirman.html" rel="alternate" type="text/html" title="Sejarah Universitas Jenderal Soedirman" /><published>2024-07-13T22:21:00+07:00</published><updated>2024-07-13T22:21:00+07:00</updated><id>http://localhost:4000/general/2024/07/13/sejarah-universitas-jenderal-soedirman</id><content type="html" xml:base="http://localhost:4000/general/2024/07/13/sejarah-universitas-jenderal-soedirman.html"><![CDATA[<p><img src="/assets/images/unsoed-min.PNG" alt="unsoed-min.PNG" width="700" height="400" /></p>
+
+<p>Sesuai dengan amanat yang tersurat dalam Pembukaan UUD 1945 dan desakan
+masyarakat Banyumas akan kebutuhan pendidikan tinggi, para pemimpin formal dan
+informal Banyumas menggagas perlunya didirikan perguruan tinggi/universitas di
+wilayah Banyumas. Sebagai tindak lanjut gagasan ini dibentuklah Yayasan
+Pembina Universitas Jenderal Soedirman dengan Akte Notaris No. 32 tanggal 20
+September 1961. Selanjutnya, atas desakan masyarakat, dinas instansi, dan TNI,
+Yayasan Pembina Universitas Jenderal Soedirman berusaha mewujudkan berdirinya
+universitas. Dengan Surat Keputusan Presiden RI No. 195 tertanggal 23
+September 1963, berdirilah Universitas Jenderal Soedirman secara resmi
+didirikan, dan diresmikan oleh Menteri PTIP Prof. Dr. Tojib Hadiwidjaja
+bertempat di rumah Dinas Residen Banyumas.</p>
+
+<p>Pada awalnya UNSOED memiliki tiga fakultas, yaitu Fakultas Pertanian, Fakultas
+Biologi, dan Fakultas Ekonomi. Dalam perkembangannya, UNSOED membuka beberapa
+fakultas lagi, yaitu Fakultas Peternakan (1966), Fakultas Hukum (1982),
+Fakultas Ilmu Sosial dan Ilmu Politik (1993), Program Pascasarjana (1994).
+Pada tahun 2007, berdiri Fakultas Kedokteran dan Ilmu-ilmu Kesehatan serta
+Fakultas Sains dan Teknik.</p>
+
+<p>Pada tahun 2014, terjadi perubahan organisasi, di mana Fakultas Kedokteran dan
+Ilmu-ilmu Kesehatan dikembangkan menjadi Fakultas Kedokteran dan Fakultas
+Ilmu-ilmu Kesehatan. Selain itu, Fakultas Sains &amp; Teknik juga dikembangkan
+Fakultas Teknik, Fakultas Matematika dan Ilmu Pengetahuan Alam serta Fakultas
+Perikanan dan Ilmu Kelautan. Masih di tahun yang sama juga UNSOED juga membuka
+Fakultas Ilmu Budaya yang sebelumnya berada di bawah administrasi Fakultas
+Ilmu Sosial dan Ilmu Politik.</p>
+
+<p>Kini, UNSOED menegaskan komitmennya sebagai perguruan tinggi yang diakui dunia
+sebagai pusat  pengembangan  sumberdaya  perdesaan dan kearifan lokal UNSOED
+saat ini juga telah, sedang dan terus mengembangkan kemitraan strategis dengan
+sesama perguruan tinggi, kalangan pebisnis, masyarakat dan pemerintah
+pusat/daerah untuk bersama-sama mengembangkan potensi yang ada dalam rangka
+meningkatkan peran dan aktualisasinya, sehingga kiprah ketridharmaannya dapat
+dirasakan kemanfaatannya bagi nusa, bangsa, negara dan nilai-nilai
+kemanusiaan.</p>]]></content><author><name></name></author><category term="General" /><summary type="html"><![CDATA[Sesuai dengan amanat yang tersurat dalam Pembukaan UUD 1945]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/unsoed-min.PNG" /><media:content medium="image" url="http://localhost:4000/assets/images/unsoed-min.PNG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fakultas Teknik Membuka Prodi Baru</title><link href="http://localhost:4000/fakultas/teknik/2024/07/11/fakultas-teknik-membuka-prodi-baru.html" rel="alternate" type="text/html" title="Fakultas Teknik Membuka Prodi Baru" /><published>2024-07-11T20:33:00+07:00</published><updated>2024-07-11T20:33:00+07:00</updated><id>http://localhost:4000/fakultas/teknik/2024/07/11/fakultas-teknik-membuka-prodi-baru</id><content type="html" xml:base="http://localhost:4000/fakultas/teknik/2024/07/11/fakultas-teknik-membuka-prodi-baru.html"><![CDATA[<p><img src="/assets/images/unsoed.PNG" alt="unsoed.PNG" width="700" height="400" /></p>
 
 <p>Fakultas Teknik Universitas Jenderal Soedirman membuka Program Studi baru
-yaitu <strong>Teknik Komputer</strong>.</p>]]></content><author><name></name></author><category term="Fakultas" /><category term="Teknik" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Universitas Jenderal Soedirman</title><link href="http://localhost:4000/jekyll/update/2024/07/09/universitas-jenderal-soedirman.html" rel="alternate" type="text/html" title="Universitas Jenderal Soedirman" /><published>2024-07-09T13:48:00+07:00</published><updated>2024-07-09T13:48:00+07:00</updated><id>http://localhost:4000/jekyll/update/2024/07/09/universitas-jenderal-soedirman</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/07/09/universitas-jenderal-soedirman.html"><![CDATA[<p><img src="/assets/images/1316190_720.jpg" alt="1316190_720.jpg" width="700" height="400" /></p>
+yaitu <strong>Teknik Komputer</strong>.</p>]]></content><author><name></name></author><category term="Fakultas" /><category term="Teknik" /><summary type="html"><![CDATA[Fakultas Teknik Universitas Jenderal Soedirman membuka Program Studi baru]]></summary></entry><entry><title type="html">Universitas Jenderal Soedirman</title><link href="http://localhost:4000/jekyll/update/2024/07/09/universitas-jenderal-soedirman.html" rel="alternate" type="text/html" title="Universitas Jenderal Soedirman" /><published>2024-07-09T13:48:00+07:00</published><updated>2024-07-09T13:48:00+07:00</updated><id>http://localhost:4000/jekyll/update/2024/07/09/universitas-jenderal-soedirman</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/07/09/universitas-jenderal-soedirman.html"><![CDATA[<p><img src="/assets/images/1316190_720.jpg" alt="1316190_720.jpg" width="700" height="400" /></p>
 
-<p>Halo Ini Universitas Jenderal Soedirman.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Hari Buruh</title><link href="http://localhost:4000/jekyll/update/2024/07/08/hari-buruh.html" rel="alternate" type="text/html" title="Hari Buruh" /><published>2024-07-08T10:01:00+07:00</published><updated>2024-07-08T10:01:00+07:00</updated><id>http://localhost:4000/jekyll/update/2024/07/08/hari-buruh</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/07/08/hari-buruh.html"><![CDATA[<p><img src="/assets/images/1316190_720.jpg" alt="1316190_720.jpg" width="700" height="400" /></p>
-
-<p><strong>Hari buruh diperingati setiap tanggal 1 Mei</strong></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Hari Ini Saya ke Kampus</title><link href="http://localhost:4000/jekyll/update/2024/07/08/hari-ini-saya-ke-kampus.html" rel="alternate" type="text/html" title="Hari Ini Saya ke Kampus" /><published>2024-07-08T09:36:00+07:00</published><updated>2024-07-08T09:36:00+07:00</updated><id>http://localhost:4000/jekyll/update/2024/07/08/hari-ini-saya-ke-kampus</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/07/08/hari-ini-saya-ke-kampus.html"><![CDATA[<p><img src="/assets/images/1316190_720.jpg" alt="1316190_720.jpg" width="700" height="400" /></p>
-
-<p>Jadi hari ini saya ke kampus</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Pemberhentian Dekan FK Unair karena Kritisi Impor Dokter Asing</title><link href="http://localhost:4000/jekyll/update/2024/07/08/pemberhentian-dekan-fk-unair-karena-kritisi-impor-dokter-asing.html" rel="alternate" type="text/html" title="Pemberhentian Dekan FK Unair karena Kritisi Impor Dokter Asing" /><published>2024-07-08T08:10:00+07:00</published><updated>2024-07-08T08:10:00+07:00</updated><id>http://localhost:4000/jekyll/update/2024/07/08/pemberhentian-dekan-fk-unair-karena-kritisi-impor-dokter-asing</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/07/08/pemberhentian-dekan-fk-unair-karena-kritisi-impor-dokter-asing.html"><![CDATA[<p><img src="/assets/images/1316190_720.jpg" alt="1316190_720.jpg" width="700" height="400" /></p>
-
-<p>Badan Eksekutif Mahasiswa Universitas Airlangga berikan respons dan pernyataan
-sikap terhadap kabar pemecatan sepihak dekan Fakultas Kedokteran atau FK
-Unair, Prof Budi Santoso. Kabar pemecatan sepihak ini berembus melalui
-WhatsApp Group (WAG) dosen FK Unair pada 3 Juli 2024.</p>
-
-<p>Unair Surabaya memberhentikan Prof Budi Santoso dari jabatannya sebagai Dekan
-Fakultas Kedokteran diduga karena menolak program pemerintah mendatangkan
-dokter asing ke Indonesia.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Kampus Merdeka Kemendikbudristek</title><link href="http://localhost:4000/jekyll/update/2024/06/21/kampus-merdeka-kemendikbudristek.html" rel="alternate" type="text/html" title="Kampus Merdeka Kemendikbudristek" /><published>2024-06-21T14:30:00+07:00</published><updated>2024-06-21T14:30:00+07:00</updated><id>http://localhost:4000/jekyll/update/2024/06/21/kampus-merdeka-kemendikbudristek</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/06/21/kampus-merdeka-kemendikbudristek.html"><![CDATA[<p><img src="/assets/images/Logo_Kampus_Merdeka_Kemendikbud.png" alt="Logo_Kampus_Merdeka_Kemendikbud.png" width="700" height="400" /></p>
-
-<p><strong>Apa yang dimaksud Merdeka Belajar Kampus Merdeka (MBKM)?</strong> MBKM saat ini
-menjadi perbincangan hangat di dunia pendidikan. Nah agar lebih tahu tahu
-terkait program Merdeka Belajar Kampus Merdeka (MBKM) ini, kita akan bahas
-lebih detail, karena banyak banget yang bertanya, seperti: MBKM itu apa?
-Program MBKM apa saja? Program MBKM untuk semester berapa? Apakah Kampus
-merdeka gratis? dll.</p>
-
-<p>Dulunya, kampus menjadi tempat untuk belajar bagi mahasiswa dan juga dosen
-secara tatap muka langsung. Pada program pembelajarannya sebuah kampus
-seringkali menerapkan konsep pembelajaran dimana dosen menjadi seorang sumber
-utama. Ini tentunya akan menjadikan mahasiswa kurang mandiri dalam
-menyelesaikan berbagai upaya pemecahan masalah yang harus di selesaikan.</p>
-
-<p>Selama ini pada dasarnya sebuah kampus sendiri menerapkan sistem pembelajaran
-dengan SKS yang hampir keseluruhan mengharuskan adanya kegiatan belajar
-didalam kelas. Ini menunjukkan kurangnya kemerdekaan belajar yang harus
-dijalankan oleh setiap mahasiswa dalam melakukan pembelajarannya. Untuk itulah
-muncul gagasan dan sudah menjadi program Kementerian Pendidikan, Kebudayaan,
-Riset, dan Teknologi Republik Indonesia (Kemendikbud )yaitu Merdeka belajar
-Kampus Merdeka atau sering kita dengan Kampus Merdeka atau disingkat MBKM</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Merdeka Belajar Kampus Merdeka</title><link href="http://localhost:4000/jekyll/update/2024/06/21/merdeka-belajar-kampus-merdeka.html" rel="alternate" type="text/html" title="Merdeka Belajar Kampus Merdeka" /><published>2024-06-21T14:24:00+07:00</published><updated>2024-06-21T14:24:00+07:00</updated><id>http://localhost:4000/jekyll/update/2024/06/21/merdeka-belajar-kampus-merdeka</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/06/21/merdeka-belajar-kampus-merdeka.html"><![CDATA[<p><img src="/assets/images/Logo_Kampus_Merdeka_Kemendikbud.png" alt="Logo_Kampus_Merdeka_Kemendikbud.png" width="700" height="400" /></p>
-
-<p>Apa yang dimaksud Merdeka Belajar Kampus Merdeka (MBKM)? MBKM saat ini menjadi
-perbincangan hangat di dunia pendidikan. Nah agar lebih tahu tahu terkait
-program Merdeka Belajar Kampus Merdeka (MBKM) ini, kita akan bahas lebih
-detail, karena banyak banget yang bertanya, seperti: MBKM itu apa? Program
-MBKM apa saja? Program MBKM untuk semester berapa? Apakah Kampus merdeka
-gratis? dll.</p>
-
-<p>Dulunya, kampus menjadi tempat untuk belajar bagi mahasiswa dan juga dosen
-secara tatap muka langsung. Pada program pembelajarannya sebuah kampus
-seringkali menerapkan konsep pembelajaran dimana dosen menjadi seorang sumber
-utama. Ini tentunya akan menjadikan mahasiswa kurang mandiri dalam
-menyelesaikan berbagai upaya pemecahan masalah yang harus di selesaikan.</p>
-
-<p>Selama ini pada dasarnya sebuah kampus sendiri menerapkan sistem pembelajaran
-dengan SKS yang hampir keseluruhan mengharuskan adanya kegiatan belajar
-didalam kelas. Ini menunjukkan kurangnya kemerdekaan belajar yang harus
-dijalankan oleh setiap mahasiswa dalam melakukan pembelajarannya. Untuk itulah
-muncul gagasan dan sudah menjadi program Kementerian Pendidikan, Kebudayaan,
-Riset, dan Teknologi Republik Indonesia (Kemendikbud )yaitu Merdeka belajar
-Kampus Merdeka atau sering kita dengan Kampus Merdeka atau disingkat MBKM.gith</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Selamat Hari Raya Idul Adha 1445H</title><link href="http://localhost:4000/jekyll/update/2024/06/18/selamat-hari-raya-idul-adha-1445h.html" rel="alternate" type="text/html" title="Selamat Hari Raya Idul Adha 1445H" /><published>2024-06-18T15:55:00+07:00</published><updated>2024-06-18T15:55:00+07:00</updated><id>http://localhost:4000/jekyll/update/2024/06/18/selamat-hari-raya-idul-adha-1445h</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/06/18/selamat-hari-raya-idul-adha-1445h.html"><![CDATA[<p><img src="/assets/images/sapi.jpeg" alt="sapi.jpeg" width="700" height="400" /></p>
-
-<p>Selamat Hari Raya Idul Adha 1445H</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Hari Raya Idul Adha 1445</title><link href="http://localhost:4000/jekyll/update/2024/06/18/hari-raya-idul-adha-1445.html" rel="alternate" type="text/html" title="Hari Raya Idul Adha 1445" /><published>2024-06-18T15:53:00+07:00</published><updated>2024-06-18T15:53:00+07:00</updated><id>http://localhost:4000/jekyll/update/2024/06/18/hari-raya-idul-adha-1445</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/06/18/hari-raya-idul-adha-1445.html"><![CDATA[<p><img src="/assets/images/sapi.jpeg" alt="sapi.jpeg" width="700" height="400" /></p>
-
-<p>Selamat Hari Raya Idul Adha 1445H</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Hari Raya Idul Adha</title><link href="http://localhost:4000/jekyll/update/2024/06/18/hari-raya-idul-adha.html" rel="alternate" type="text/html" title="Hari Raya Idul Adha" /><published>2024-06-18T15:52:00+07:00</published><updated>2024-06-18T15:52:00+07:00</updated><id>http://localhost:4000/jekyll/update/2024/06/18/hari-raya-idul-adha-</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/06/18/hari-raya-idul-adha.html"><![CDATA[<p><img src="/assets/images/sapi.jpeg" alt="sapi.jpeg" width="700" height="400" /></p>
-
-<p>selamat hari raya idul adha 1445 H</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry></feed>
+<p>Halo Ini Universitas Jenderal Soedirman.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Halo Ini Universitas Jenderal Soedirman.]]></summary></entry></feed>

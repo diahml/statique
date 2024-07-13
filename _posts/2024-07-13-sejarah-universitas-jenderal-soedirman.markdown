@@ -4,6 +4,7 @@ title:  "Sejarah Universitas Jenderal Soedirman"
 date:   2024-07-13 22:21 
 categories: "General"
 image: "/assets/images/unsoed-min.PNG"
+excerpt: "Sesuai dengan amanat yang tersurat dalam Pembukaan UUD 1945"
 ---
 <img src="/assets/images/unsoed-min.PNG" alt="unsoed-min.PNG" width="700" height="400">
 
