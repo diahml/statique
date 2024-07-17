@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Statique-Blog
+title: Statique
 email: statique.blog@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Statique-Blog is a tool to make a static blog from an HTML form.
