@@ -1,10 +1,12 @@
 @charset "utf-8";
 
 // Define defaults for each variable.
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
 
-$base-font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif !default;
-$code-font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
-$base-font-size:   16px !default;
+
+$base-font-family: 'Poppins',-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif !default;
+$code-font-family: 'Poppins',"Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
+$base-font-size:   18px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
@@ -12,9 +14,10 @@ $base-line-height: 1.5 !default;
 $spacing-unit:     20px !default;
 
 $table-text-align: left !default;
+$base-text-align: justify;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    1200px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;

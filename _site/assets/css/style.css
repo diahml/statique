@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
 :root {
   --minima-brand-color: #828282;
   --minima-brand-color-light: #e8e8e8;
@@ -428,7 +429,7 @@
   }
 }
 html {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 /**
@@ -445,7 +446,8 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
+  font: 400 18px/1.5 "Poppins", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
+  text-align: justify;
   color: var(--minima-text-color);
   background-color: var(--minima-background-color);
   -webkit-text-size-adjust: 100%;
@@ -498,7 +500,7 @@ figure > img {
 }
 
 figcaption {
-  font-size: 14px;
+  font-size: 15.75px;
 }
 
 /**
@@ -563,7 +565,7 @@ blockquote i, blockquote em {
  */
 pre,
 code {
-  font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
+  font-family: "Poppins", "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
   font-size: 0.9375em;
   border: 1px solid var(--minima-border-color-01);
   border-radius: 3px;
@@ -596,7 +598,7 @@ pre > code {
  * Wrapper
  */
 .wrapper {
-  max-width: calc(800px - (20px));
+  max-width: calc(1200px - (20px));
   margin-right: auto;
   margin-left: auto;
   padding-right: 10px;
@@ -604,7 +606,7 @@ pre > code {
 }
 @media screen and (min-width: 800px) {
   .wrapper {
-    max-width: calc(800px - 20px * 2);
+    max-width: calc(1200px - 20px * 2);
     padding-right: 20px;
     padding-left: 20px;
   }
@@ -678,7 +680,7 @@ table td {
   border-top: 0px solid var(--minima-border-color-03);
   border-bottom: 1px solid var(--minima-border-color-01);
   min-height: 37.3px;
-  line-height: 54px;
+  line-height: 60.75px;
   position: relative;
 }
 
@@ -869,7 +871,7 @@ table td {
 }
 
 .post-meta {
-  font-size: 14px;
+  font-size: 15.75px;
   color: var(--minima-brand-color);
 }
 

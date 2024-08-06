@@ -31,8 +31,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 plugins:
   - jekyll-feed
+  # - jekyll-paginate
+
 
 show_excerpts: true
+
+# paginate: 5  # Jumlah post per halaman
+# paginate_path: "/page:num/"  # URL path untuk halaman pagination
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -54,6 +59,5 @@ show_excerpts: true
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# paginate: 7  # Jumlah post per halaman
-# paginate_path: "/page:num/"  # URL path untuk halaman pagination
+
 

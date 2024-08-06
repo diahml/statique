@@ -10,7 +10,7 @@ layout: base
   {{ content }}
 
 
-  {% if site.paginate %}
+  {%- if site.paginator -%}
     {% assign posts = paginator.posts %}
   {% else %}
     {% assign posts = site.posts %}
@@ -19,7 +19,7 @@ layout: base
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+      <b><h2 class="post-list-heading">{{ page.list_title }}</h2></b>
     {%- endif -%}
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -31,6 +31,7 @@ layout: base
           </a>
         </h3>
         <span class="post-meta">{{ post.date | date: date_format }} | {{ post.categories }}</span>
+        <br>
 
         {%- if post.image -%}
           <div class="post-image">
@@ -47,7 +48,7 @@ layout: base
       {%- endfor -%}
     </ul>
 
-    {% if site.paginate %}
+    {% if paginator %}
       <div class="pager">
         <ul class="pagination">
         {%- if paginator.previous_page %}
