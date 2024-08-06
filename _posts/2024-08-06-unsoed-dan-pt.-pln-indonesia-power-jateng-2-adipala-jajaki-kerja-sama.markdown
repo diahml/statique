@@ -1,18 +1,18 @@
 ---
 layout: post
 title:  "UNSOED Dan PT. PLN Indonesia Power Jateng 2 Adipala Jajaki Kerja Sama"
-date:   2024-08-06 20:41 
+date:   2024-08-06 20:48 
 categories: "General"
 image: "/assets/images/DSC09691.jpg"
-excerpt: "[unsoed.ac.id, Rab, 19/06/24] Universitas Jenderal Soedirman (Unsoed) dan PT. PLN Indonesia Power UBP Jawa Tengah 2 Adipala Cilacap menjajaki kerja sama. Kerja sama terkait tentang Pendidikan, Penelitian, dan Pengabdian Kepada"
+excerpt: "Universitas Jenderal Soedirman (Unsoed) dan PT. PLN Indonesia Power UBP Jawa Tengah 2 Adipala Cilacap menjajaki kerja sama. Kerja sama terkait tentang Pendidikan, Penelitian, dan Pengabdian Kepada Masyarakat, serta Peningkatan"
 
 ---
 <img src="/assets/images/DSC09691.jpg" alt="DSC09691.jpg" width="700" height="400">
 
-[unsoed.ac.id, Rab, 19/06/24] Universitas Jenderal Soedirman (Unsoed) dan PT.
-PLN Indonesia Power UBP Jawa Tengah 2 Adipala Cilacap menjajaki kerja sama.
-Kerja sama terkait tentang Pendidikan, Penelitian, dan Pengabdian Kepada
-Masyarakat, serta Peningkatan Kualitas Sumber Daya Manusia.  
+Universitas Jenderal Soedirman (Unsoed) dan PT. PLN Indonesia Power UBP Jawa
+Tengah 2 Adipala Cilacap menjajaki kerja sama. Kerja sama terkait tentang
+Pendidikan, Penelitian, dan Pengabdian Kepada Masyarakat, serta Peningkatan
+Kualitas Sumber Daya Manusia.  
   
 Terkait kerja sama yang akan dilaksanakan, delegasi Unsoed yang terdiri Wakil
 Dekan Bidang kemahasisiwaan dan Alumni Fakultas Teknik beserta tim manajemen
