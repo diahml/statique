@@ -1,73 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-06T21:17:51+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Statique</title><subtitle>Statique-Blog is a tool to make a static blog from an HTML form.</subtitle><entry><title type="html">Universitas Jenderal Soedirman Membuka Seleksi Mandiri Mahasiswa Baru</title><link href="http://localhost:4000/general/2024/07/18/universitas-jenderal-soedirman-membuka-seleksi-mandiri-mahasiswa-baru.html" rel="alternate" type="text/html" title="Universitas Jenderal Soedirman Membuka Seleksi Mandiri Mahasiswa Baru" /><published>2024-07-18T09:01:00+07:00</published><updated>2024-07-18T09:01:00+07:00</updated><id>http://localhost:4000/general/2024/07/18/universitas-jenderal-soedirman-membuka-seleksi-mandiri-mahasiswa-baru</id><content type="html" xml:base="http://localhost:4000/general/2024/07/18/universitas-jenderal-soedirman-membuka-seleksi-mandiri-mahasiswa-baru.html"><![CDATA[<p><img src="/assets/images/komputer.jpeg" alt="komputer.jpeg" width="700" height="400" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-07T20:08:20+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Statique</title><subtitle>Statique-Blog is a tool to make a static blog from an HTML form.</subtitle><entry><title type="html">Sejarah Universitas Jenderal Soedirman</title><link href="http://localhost:4000/general/2024/08/07/sejarah-universitas-jenderal-soedirman.html" rel="alternate" type="text/html" title="Sejarah Universitas Jenderal Soedirman" /><published>2024-08-07T20:08:00+07:00</published><updated>2024-08-07T20:08:00+07:00</updated><id>http://localhost:4000/general/2024/08/07/sejarah-universitas-jenderal-soedirman</id><content type="html" xml:base="http://localhost:4000/general/2024/08/07/sejarah-universitas-jenderal-soedirman.html"><![CDATA[<p><img src="/assets/images/unsoed.PNG" alt="unsoed.PNG" width="700" height="400" /></p>
 
-<p>Universitas Jenderal Soedirman Membuka Seleksi Mandiri Mahasiswa Baru</p>]]></content><author><name></name></author><category term="General" /><summary type="html"><![CDATA[Universitas Jenderal Soedirman Membuka Seleksi Mandiri Mahasiswa Baru]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/komputer.jpeg" /><media:content medium="image" url="http://localhost:4000/assets/images/komputer.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pembukaan Program Studi Baru</title><link href="http://localhost:4000/fakultas/teknik/2024/07/18/pembukaan-program-studi-baru.html" rel="alternate" type="text/html" title="Pembukaan Program Studi Baru" /><published>2024-07-18T08:26:00+07:00</published><updated>2024-07-18T08:26:00+07:00</updated><id>http://localhost:4000/fakultas/teknik/2024/07/18/pembukaan-program-studi-baru</id><content type="html" xml:base="http://localhost:4000/fakultas/teknik/2024/07/18/pembukaan-program-studi-baru.html"><![CDATA[<p><img src="/assets/images/patung_kuda.jpg" alt="patung_kuda.jpg" width="700" height="400" /></p>
+<p>Sesuai dengan amanat yang tersurat dalam Pembukaan UUD 1945 dan desakan
+masyarakat Banyumas akan kebutuhan pendidikan tinggi, para pemimpin formal dan
+informal Banyumas menggagas perlunya didirikan perguruan tinggi.universitas di
+wilayah Banyumas. Sebagai tindak lanjur gagasan ini, dibentuklah Yayasan
+Pembina Universitas Jenderal Soedirman.</p>
 
-<p>Fakultas Teknik Membuka Program Studi Baru</p>]]></content><author><name></name></author><category term="Fakultas" /><category term="Teknik" /><summary type="html"><![CDATA[Fakultas Teknik Membuka Program Studi Baru]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/patung_kuda.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/patung_kuda.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Prodi Teknik Komputer</title><link href="http://localhost:4000/fakultas/teknik/2024/07/13/prodi-teknik-komputer.html" rel="alternate" type="text/html" title="Prodi Teknik Komputer" /><published>2024-07-13T23:09:00+07:00</published><updated>2024-07-13T23:09:00+07:00</updated><id>http://localhost:4000/fakultas/teknik/2024/07/13/prodi-teknik-komputer</id><content type="html" xml:base="http://localhost:4000/fakultas/teknik/2024/07/13/prodi-teknik-komputer.html"><![CDATA[<p><img src="/assets/images/komputer.jpeg" alt="komputer.jpeg" width="700" height="400" /></p>
+<p>Pada awalnya UNSOED memiliki tiga fakultas, yaitu Fakultas Pertanian, Fakultas
+Biologi, dan Fakultas Ekonomi. Dalam perkembangannya, UNSOED membuka beberapa
+fakultas lagi, yaitu Fakultas Peternakan, Fakultas Hukum, Fakultas Ilmu Sosial
+dan Ilmu Politik, dan lainnya.</p>
+
+<p>Kini, UNSOED menegaskan komitmennya sebagai perguruan tinggi yang diakui dunia
+sebagai pusat pengembangan sumberdaya perdesaan dan kearifan lokal. UNSOED
+saat ini juga telah, sedang, dan terus mengembangkan kemitraan strategis
+dengan sesama perguruan tinggi, kalangan pebisnis, masyarakat dan pemerintah
+untuk bersama-sama mengembangkan potensi yang ada dalam rangka meningkatkan
+peran dan aktualisasinya, sehingga kiprah ketridharmaannya dapat dirasakan
+kemanfaatannya bagi nusa, bangsa, negara, dan nilai-nilai kemanusiaan.</p>]]></content><author><name></name></author><category term="General" /><summary type="html"><![CDATA[Sesuai dengan amanat yang tersurat dalam Pembukaan UUD 1945 dan desakan masyarakat Banyumas akan kebutuhan pendidikan tinggi, para pemimpin formal dan informal Banyumas menggagas perlunya didirikan perguruan tinggi.universitas di wilayah]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/unsoed.PNG" /><media:content medium="image" url="http://localhost:4000/assets/images/unsoed.PNG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Unsoed Menjalani Kerja Sama dengan PT PLN</title><link href="http://localhost:4000/general/2024/08/06/unsoed-menjalani-kerja-sama-dengan-pt-pln.html" rel="alternate" type="text/html" title="Unsoed Menjalani Kerja Sama dengan PT PLN" /><published>2024-08-06T21:21:00+07:00</published><updated>2024-08-06T21:21:00+07:00</updated><id>http://localhost:4000/general/2024/08/06/unsoed-menjalani-kerja-sama-dengan-pt-pln</id><content type="html" xml:base="http://localhost:4000/general/2024/08/06/unsoed-menjalani-kerja-sama-dengan-pt-pln.html"><![CDATA[<p><img src="/assets/images/DSC09691.jpg" alt="DSC09691.jpg" width="700" height="400" /></p>
+
+<p>Universitas Jenderal Soedirman (Unsoed) dan PT. PLN Indonesia Power UBP
+JawaTengah 2 Adipala Cilacap menjajaki kerja sama. Kerja sama terkait tentang
+Pendidikan, Penelitian, dan Pengabdian Kepada Masyarakat, serta Peningkatan
+Kualitas Sumber Daya Manusia.</p>
+
+<p>Terkait kerja sama yang akan dilaksanakan, delegasi Unsoed yang terdiri Wakil
+Dekan Bidang kemahasisiwaan dan Alumni Fakultas Teknik beserta tim manajemen
+energi, Kepala Biro Umum dan Keuangan, Koordinator Bidang Umum, Sub Kordinator
+Bidang Layanan Kerjasama beserta staf berkunjung ke PT. PLN Indonesia Power
+UBP Jawa Tengah 2 Adipala. Delegasi Unsoed diterima langsung oleh I Wayan
+Arimbawa YS selaku Senior Manager PLN Indonesia Power UBP Jawa Tengah 2
+Adipala, beserta jajaran.</p>
+
+<p>I Wayan Arimbawa YS mengucapkan selamat datang tim dari Unsoed, dan sangat
+bahagia dengan adanya kerja sama antara Unsoed PT. PLN Indonesia Power UBP
+Jawa Tengah 2 Adipala.</p>
+
+<p>Kami adalah instansi BUMN, unit bisnis pembangkitan Jateng 2 Adipala yang
+merupakan unit yang dimiliki secara penuh oleh PT.PLN Persero. Selain itu
+merupakan salah satu yang terbesar dan tercanggih yang dimiliki oleh PLN. Kami
+dengan kapasitas 660 MW dan dengan teknologi tercanggih,jelasnya.</p>]]></content><author><name></name></author><category term="General" /><summary type="html"><![CDATA[Universitas Jenderal Soedirman (Unsoed) dan PT. PLN Indonesia Power UBP JawaTengah 2 Adipala Cilacap menjajaki kerja sama. Kerja sama terkait tentang Pendidikan, Penelitian, dan Pengabdian Kepada Masyarakat, serta Peningkatan Kualitas]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/DSC09691.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/DSC09691.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Universitas Jenderal Soedirman Membuka Seleksi Mandiri Mahasiswa Baru</title><link href="http://localhost:4000/general/2024/07/18/universitas-jenderal-soedirman-membuka-seleksi-mandiri-mahasiswa-baru.html" rel="alternate" type="text/html" title="Universitas Jenderal Soedirman Membuka Seleksi Mandiri Mahasiswa Baru" /><published>2024-07-18T09:01:00+07:00</published><updated>2024-07-18T09:01:00+07:00</updated><id>http://localhost:4000/general/2024/07/18/universitas-jenderal-soedirman-membuka-seleksi-mandiri-mahasiswa-baru</id><content type="html" xml:base="http://localhost:4000/general/2024/07/18/universitas-jenderal-soedirman-membuka-seleksi-mandiri-mahasiswa-baru.html"><![CDATA[<p><img src="/assets/images/komputer.jpeg" alt="komputer.jpeg" width="700" height="400" /></p>
+
+<p>Universitas Jenderal Soedirman Membuka Seleksi Mandiri Mahasiswa Baru</p>]]></content><author><name></name></author><category term="General" /><summary type="html"><![CDATA[Universitas Jenderal Soedirman Membuka Seleksi Mandiri Mahasiswa Baru]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/komputer.jpeg" /><media:content medium="image" url="http://localhost:4000/assets/images/komputer.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Prodi Teknik Komputer</title><link href="http://localhost:4000/fakultas/teknik/2024/07/13/prodi-teknik-komputer.html" rel="alternate" type="text/html" title="Prodi Teknik Komputer" /><published>2024-07-13T23:09:00+07:00</published><updated>2024-07-13T23:09:00+07:00</updated><id>http://localhost:4000/fakultas/teknik/2024/07/13/prodi-teknik-komputer</id><content type="html" xml:base="http://localhost:4000/fakultas/teknik/2024/07/13/prodi-teknik-komputer.html"><![CDATA[<p><img src="/assets/images/komputer.jpeg" alt="komputer.jpeg" width="700" height="400" /></p>
 
 <p>Sarjana Teknik Komputer yang mampu berperan sebagai pemimpin yang handal untuk
 mengembangkan sistem yang aman dan efisien, dan mampu melakukan mitigasi
 masalah kritis pada sistem berbasis komputer, serta berjiwa wirausaha dalam
 kegiatan bidang teknik komputer yang relevan dengan sistem pertanian,
-perikanan, kesehatan, dan manufaktur industri.</p>]]></content><author><name></name></author><category term="Fakultas" /><category term="Teknik" /><summary type="html"><![CDATA[Sarjana Teknik Komputer yang mampu berperan sebagai pemimpin yang handal untuk mengembangkan sistem yang aman dan efisien, dan mampu melakukan mitigasi masalah kritis pada sistem berbasis komputer, serta berjiwa wirausaha dalam kegiatan bidang teknik komputer yang relevan dengan sistem pertanian,]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/komputer.jpeg" /><media:content medium="image" url="http://localhost:4000/assets/images/komputer.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Jurusan Baru di Universitas Jenderal Soedirman</title><link href="http://localhost:4000/general/2024/07/13/jurusan-baru-di-universitas-jenderal-soedirman.html" rel="alternate" type="text/html" title="Jurusan Baru di Universitas Jenderal Soedirman" /><published>2024-07-13T22:49:00+07:00</published><updated>2024-07-13T22:49:00+07:00</updated><id>http://localhost:4000/general/2024/07/13/jurusan-baru-di-universitas-jenderal-soedirman</id><content type="html" xml:base="http://localhost:4000/general/2024/07/13/jurusan-baru-di-universitas-jenderal-soedirman.html"><![CDATA[<p><img src="/assets/images/patung_kuda.jpg" alt="patung_kuda.jpg" width="700" height="400" /></p>
-
-<p>Universitas Jenderal Soedirman (Unsoed) membuka 9 Program Studi (Prodi) baru
-di tahun 2024 ini. Dengan dibukanya 9 Prodi Baru ini maka jumlah prodi baru di
-Unsoed menjadi 64 prodi untuk jenjang S1 dan D3.</p>
-
-<p>Adapun Prodi baru tersebut terdiri dari :<br />
-S1 :</p>
-
-<ol>
-  <li>Prodi Proteksi Tanaman (Fakultas Pertanian)</li>
-  <li>Prodi Mikrobiologi (Fakultas Biologi)</li>
-  <li>Prodi Biologi Terapan (Fakultas Biologi)</li>
-  <li>Prodi Teknik Komputer (Fakultas Teknik)</li>
-  <li>Prodi Teknik Mesin (Fakultas Teknik)</li>
-  <li>Prodi Statistika (Fakultas MIPA)</li>
-  <li>Prodi Pendidikan Bahasa Jepang (Fakultas Ilmu Budaya)</li>
-</ol>
-
-<p>S2 : Prodi Fisika (Fakultas MIPA)</p>
-
-<p>S3 : Prodi Administrasi Publik (Fakultas ISIP)</p>]]></content><author><name></name></author><category term="General" /><summary type="html"><![CDATA[Universitas Jenderal Soedirman (Unsoed) membuka 9 Program Studi (Prodi) baru di tahun 2024 ini. Dengan dibukanya 9 Prodi Baru ini maka jumlah prodi baru di Unsoed menjadi 64 prodi untuk jenjang S1 dan D3. Adapun Prodi baru tersebut terdiri dari : S1 : 1. Prodi Proteksi Tanaman (Fakultas Pertanian) 2.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/patung_kuda.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/patung_kuda.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Sejarah Universitas Jenderal Soedirman</title><link href="http://localhost:4000/general/2024/07/13/sejarah-universitas-jenderal-soedirman.html" rel="alternate" type="text/html" title="Sejarah Universitas Jenderal Soedirman" /><published>2024-07-13T22:21:00+07:00</published><updated>2024-07-13T22:21:00+07:00</updated><id>http://localhost:4000/general/2024/07/13/sejarah-universitas-jenderal-soedirman</id><content type="html" xml:base="http://localhost:4000/general/2024/07/13/sejarah-universitas-jenderal-soedirman.html"><![CDATA[<p><img src="/assets/images/unsoed-min.PNG" alt="unsoed-min.PNG" width="700" height="400" /></p>
-
-<p>Sesuai dengan amanat yang tersurat dalam Pembukaan UUD 1945 dan desakan
-masyarakat Banyumas akan kebutuhan pendidikan tinggi, para pemimpin formal dan
-informal Banyumas menggagas perlunya didirikan perguruan tinggi/universitas di
-wilayah Banyumas. Sebagai tindak lanjut gagasan ini dibentuklah Yayasan
-Pembina Universitas Jenderal Soedirman dengan Akte Notaris No. 32 tanggal 20
-September 1961. Selanjutnya, atas desakan masyarakat, dinas instansi, dan TNI,
-Yayasan Pembina Universitas Jenderal Soedirman berusaha mewujudkan berdirinya
-universitas. Dengan Surat Keputusan Presiden RI No. 195 tertanggal 23
-September 1963, berdirilah Universitas Jenderal Soedirman secara resmi
-didirikan, dan diresmikan oleh Menteri PTIP Prof. Dr. Tojib Hadiwidjaja
-bertempat di rumah Dinas Residen Banyumas.</p>
-
-<p>Pada awalnya UNSOED memiliki tiga fakultas, yaitu Fakultas Pertanian, Fakultas
-Biologi, dan Fakultas Ekonomi. Dalam perkembangannya, UNSOED membuka beberapa
-fakultas lagi, yaitu Fakultas Peternakan (1966), Fakultas Hukum (1982),
-Fakultas Ilmu Sosial dan Ilmu Politik (1993), Program Pascasarjana (1994).
-Pada tahun 2007, berdiri Fakultas Kedokteran dan Ilmu-ilmu Kesehatan serta
-Fakultas Sains dan Teknik.</p>
-
-<p>Pada tahun 2014, terjadi perubahan organisasi, di mana Fakultas Kedokteran dan
-Ilmu-ilmu Kesehatan dikembangkan menjadi Fakultas Kedokteran dan Fakultas
-Ilmu-ilmu Kesehatan. Selain itu, Fakultas Sains &amp; Teknik juga dikembangkan
-Fakultas Teknik, Fakultas Matematika dan Ilmu Pengetahuan Alam serta Fakultas
-Perikanan dan Ilmu Kelautan. Masih di tahun yang sama juga UNSOED juga membuka
-Fakultas Ilmu Budaya yang sebelumnya berada di bawah administrasi Fakultas
-Ilmu Sosial dan Ilmu Politik.</p>
-
-<p>Kini, UNSOED menegaskan komitmennya sebagai perguruan tinggi yang diakui dunia
-sebagai pusat  pengembangan  sumberdaya  perdesaan dan kearifan lokal UNSOED
-saat ini juga telah, sedang dan terus mengembangkan kemitraan strategis dengan
-sesama perguruan tinggi, kalangan pebisnis, masyarakat dan pemerintah
-pusat/daerah untuk bersama-sama mengembangkan potensi yang ada dalam rangka
-meningkatkan peran dan aktualisasinya, sehingga kiprah ketridharmaannya dapat
-dirasakan kemanfaatannya bagi nusa, bangsa, negara dan nilai-nilai
-kemanusiaan.</p>]]></content><author><name></name></author><category term="General" /><summary type="html"><![CDATA[Sesuai dengan amanat yang tersurat dalam Pembukaan UUD 1945]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/unsoed-min.PNG" /><media:content medium="image" url="http://localhost:4000/assets/images/unsoed-min.PNG" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fakultas Teknik Membuka Prodi Baru</title><link href="http://localhost:4000/fakultas/teknik/2024/07/11/fakultas-teknik-membuka-prodi-baru.html" rel="alternate" type="text/html" title="Fakultas Teknik Membuka Prodi Baru" /><published>2024-07-11T20:33:00+07:00</published><updated>2024-07-11T20:33:00+07:00</updated><id>http://localhost:4000/fakultas/teknik/2024/07/11/fakultas-teknik-membuka-prodi-baru</id><content type="html" xml:base="http://localhost:4000/fakultas/teknik/2024/07/11/fakultas-teknik-membuka-prodi-baru.html"><![CDATA[<p><img src="/assets/images/unsoed.PNG" alt="unsoed.PNG" width="700" height="400" /></p>
-
-<p>Fakultas Teknik Universitas Jenderal Soedirman membuka Program Studi baru
-yaitu <strong>Teknik Komputer</strong>.</p>]]></content><author><name></name></author><category term="Fakultas" /><category term="Teknik" /><summary type="html"><![CDATA[Fakultas Teknik Universitas Jenderal Soedirman membuka Program Studi baru]]></summary></entry><entry><title type="html">Universitas Jenderal Soedirman</title><link href="http://localhost:4000/jekyll/update/2024/07/09/universitas-jenderal-soedirman.html" rel="alternate" type="text/html" title="Universitas Jenderal Soedirman" /><published>2024-07-09T13:48:00+07:00</published><updated>2024-07-09T13:48:00+07:00</updated><id>http://localhost:4000/jekyll/update/2024/07/09/universitas-jenderal-soedirman</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/07/09/universitas-jenderal-soedirman.html"><![CDATA[<p><img src="/assets/images/1316190_720.jpg" alt="1316190_720.jpg" width="700" height="400" /></p>
-
-<p>Halo Ini Universitas Jenderal Soedirman.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Halo Ini Universitas Jenderal Soedirman.]]></summary></entry></feed>
+perikanan, kesehatan, dan manufaktur industri.</p>]]></content><author><name></name></author><category term="Fakultas" /><category term="Teknik" /><summary type="html"><![CDATA[Sarjana Teknik Komputer yang mampu berperan sebagai pemimpin yang handal untuk mengembangkan sistem yang aman dan efisien, dan mampu melakukan mitigasi masalah kritis pada sistem berbasis komputer, serta berjiwa wirausaha dalam kegiatan bidang teknik komputer yang relevan dengan sistem 
